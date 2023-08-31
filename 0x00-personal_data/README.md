@@ -1,7 +1,7 @@
 0x00. Personal data
 ===================
 
-- By Dev Nderitu
+- By Kim Njuguna
 
 ### Concepts
 
