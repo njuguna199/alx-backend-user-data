@@ -1,7 +1,7 @@
 0x01. Basic authentication
 ==========================
 
-- By Dev Nderitu
+- By Kim Njuguna
 
 Background Context
 ------------------
